@@ -1,6 +1,10 @@
 # A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: CC BY 4.0">
+  </a>
+</p>
 
 ![Results Summary](results_summary.png)
 
