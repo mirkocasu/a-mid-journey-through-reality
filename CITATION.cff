@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset or images, please cite the associated paper."
+title: "A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images"
+authors:
+  - family-names: "Casu"
+    given-names: "Mirko"
+  - family-names: "Guarnera"
+    given-names: "Luca"
+  - family-names: "Zangara"
+    given-names: "Ignazio"
+  - family-names: "Caponnetto"
+    given-names: "Pasquale"
+  - family-names: "Battiato"
+    given-names: "Sebastiano"
+date-released: 2025-01-01
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/9977058"
+doi: 10.1155/hbe2/9977058
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Casu"
+      given-names: "Mirko"
+    - family-names: "Guarnera"
+      given-names: "Luca"
+    - family-names: "Zangara"
+      given-names: "Ignazio"
+    - family-names: "Caponnetto"
+      given-names: "Pasquale"
+    - family-names: "Battiato"
+      given-names: "Sebastiano"
+  title: "A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images"
+  journal: "Human Behavior and Emerging Technologies"
+  volume: 2025
+  issue: 1
+  pages: 9977058
+  year: 2025
+  doi: 10.1155/hbe2/9977058

@@ -1,0 +1,4 @@
+Dataset,Description,Actual Class,Total Images,Correct Predictions,Wrong Predictions,Accuracy (%),p-value
+Dataset 1,"Real images (all real)",Real,40,10,30,25,0.0026
+Dataset 2,"Fake images (Midjourney + Magnific AI)",Fake,71,50,21,70.4,0.0004
+Dataset 3,"Images generated with Midjourney",Fake,71,52,19,73.2,0.00005

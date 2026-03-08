@@ -1,0 +1,46 @@
+analysis,variant,dependent_var,test_type,statistic,p_value,effect_size,significance
+Gender,Alpha,Accuracy,t-test,t(254) = 2.08,p = 0.039,d = 0.265,significant
+Gender,Alpha,Doubt,t-test,t(254) = 0.98,p = 0.328,d = 0.125,not significant
+Gender,Alpha,Change of Opinion,t-test,t(254) = 1.99,p = 0.047,d = 0.254,significant
+Gender,Beta,Accuracy,t-test,t(147) = -1.00,p = 0.318,d = -0.167,not significant
+Gender,Beta,Doubt,t-test,t(147) = -0.02,p = 0.986,d = -0.003,not significant
+Gender,Beta,Change of Opinion,t-test,t(147) = 2.98,p = 0.003,d = 0.496,significant
+Gender,Gamma,Accuracy,t-test,t(140) = 0.60,p = 0.547,d = 0.101,not significant
+Gender,Gamma,Doubt,t-test,t(140) = -0.90,p = 0.368,d = -0.152,not significant
+Gender,Gamma,Change of Opinion,t-test,t(140) = 2.72,p = 0.007,d = 0.457,significant
+Gender,Delta,Accuracy,t-test,t(104) = 0.76,p = 0.452,d = 0.147,not significant
+Gender,Delta,Doubt,t-test,t(104) = 0.70,p = 0.488,d = 0.135,not significant
+Gender,Delta,Change of Opinion,t-test,t(104) = 3.51,p < .001,d = 0.683,significant
+Gender,Epsilon,Accuracy,t-test,t(90) = 1.33,p = 0.186,d = 0.278,not significant
+Gender,Epsilon,Doubt,t-test,t(90) = -0.68,p = 0.495,d = -0.143,not significant
+Gender,Epsilon,Change of Opinion,t-test,t(90) = 2.70,p = 0.008,d = 0.563,significant
+Age,Alpha,Accuracy,ANOVA,"F(3, 252) = 1.42",p = 0.238,ηp² = 0.017,not significant
+Age,Alpha,Doubt,ANOVA,"F(3, 252) = 1.19",p = 0.313,ηp² = 0.014,not significant
+Age,Alpha,Change of Opinion,ANOVA,"F(3, 252) = 2.13",p = 0.097,ηp² = 0.025,not significant
+Age,Beta,Accuracy,ANOVA,"F(3, 146) = 1.99",p = 0.118,ηp² = 0.039,not significant
+Age,Beta,Doubt,ANOVA,"F(3, 146) = 0.50",p = 0.681,ηp² = 0.010,not significant
+Age,Beta,Change of Opinion,ANOVA,"F(3, 146) = 0.81",p = 0.488,ηp² = 0.016,not significant
+Age,Gamma,Accuracy,ANOVA,"F(3, 138) = 0.79",p = 0.500,ηp² = 0.017,not significant
+Age,Gamma,Doubt,ANOVA,"F(3, 138) = 1.65",p = 0.182,ηp² = 0.035,not significant
+Age,Gamma,Change of Opinion,ANOVA,"F(3, 138) = 1.20",p = 0.312,ηp² = 0.025,not significant
+Age,Delta,Accuracy,ANOVA,"F(3, 102) = 1.47",p = 0.226,ηp² = 0.042,not significant
+Age,Delta,Doubt,ANOVA,"F(3, 102) = 1.21",p = 0.309,ηp² = 0.034,not significant
+Age,Delta,Change of Opinion,ANOVA,"F(3, 102) = 2.22",p = 0.090,ηp² = 0.061,not significant
+Age,Epsilon,Accuracy,ANOVA,"F(3, 88) = 0.35",p = 0.788,ηp² = 0.012,not significant
+Age,Epsilon,Doubt,ANOVA,"F(3, 88) = 1.36",p = 0.260,ηp² = 0.044,not significant
+Age,Epsilon,Change of Opinion,ANOVA,"F(3, 88) = 6.65",p < .001,ηp² = 0.185,significant
+Department,Alpha,Accuracy,ANOVA,"F(6, 249) = 2.09",p = 0.055,ηp² = 0.048,not significant
+Department,Alpha,Doubt,ANOVA,"F(6, 249) = 1.30",p = 0.257,ηp² = 0.030,not significant
+Department,Alpha,Change of Opinion,ANOVA,"F(6, 249) = 1.68",p = 0.127,ηp² = 0.039,not significant
+Department,Beta,Accuracy,ANOVA,"F(6, 143) = 1.35",p = 0.238,ηp² = 0.054,not significant
+Department,Beta,Doubt,ANOVA,"F(6, 143) = 0.48",p = 0.820,ηp² = 0.020,not significant
+Department,Beta,Change of Opinion,ANOVA,"F(6, 143) = 2.65",p = 0.018,ηp² = 0.100,significant
+Department,Gamma,Accuracy,ANOVA,"F(6, 135) = 1.41",p = 0.214,ηp² = 0.059,not significant
+Department,Gamma,Doubt,ANOVA,"F(6, 135) = 1.21",p = 0.307,ηp² = 0.051,not significant
+Department,Gamma,Change of Opinion,ANOVA,"F(6, 135) = 1.35",p = 0.238,ηp² = 0.057,not significant
+Department,Delta,Accuracy,ANOVA,"F(6, 99) = 0.76",p = 0.601,ηp² = 0.044,not significant
+Department,Delta,Doubt,ANOVA,"F(6, 99) = 0.43",p = 0.856,ηp² = 0.026,not significant
+Department,Delta,Change of Opinion,ANOVA,"F(6, 99) = 2.52",p = 0.026,ηp² = 0.133,significant
+Department,Epsilon,Accuracy,ANOVA,"F(6, 85) = 1.27",p = 0.279,ηp² = 0.082,not significant
+Department,Epsilon,Doubt,ANOVA,"F(6, 85) = 1.04",p = 0.407,ηp² = 0.068,not significant
+Department,Epsilon,Change of Opinion,ANOVA,"F(6, 85) = 1.70",p = 0.132,ηp² = 0.107,not significant

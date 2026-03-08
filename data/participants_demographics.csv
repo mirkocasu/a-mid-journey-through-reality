@@ -1,0 +1,747 @@
+participant_id,variant,age,gender,academic_affiliation
+P0001,alpha,22,Male,DMI
+P0002,alpha,22,Male,DMI
+P0003,alpha,22,Male,DMI
+P0004,alpha,23_or_older,Male,DMI
+P0005,alpha,21,Male,DMI
+P0006,alpha,21,Male,DMI
+P0007,alpha,21,Female,DMI
+P0008,alpha,23_or_older,Male,DMI
+P0009,alpha,23_or_older,Male,DMI
+P0010,alpha,23_or_older,Male,DMI
+P0011,alpha,22,Male,Ingegneria
+P0012,alpha,21,Male,DMI
+P0013,alpha,21,Male,DIEEI
+P0014,alpha,22,Male,DMI
+P0015,alpha,23_or_older,Male,multi-department
+P0016,alpha,23_or_older,Male,DMI
+P0017,alpha,23_or_older,Male,DMI
+P0018,alpha,23_or_older,Male,DMI
+P0019,alpha,23_or_older,Male,DMI
+P0020,alpha,23_or_older,Male,DMI
+P0021,alpha,23_or_older,Male,DMI
+P0022,alpha,23_or_older,Male,DiSFor
+P0023,alpha,23_or_older,Female,DiSFor
+P0024,alpha,23_or_older,Female,DiSFor
+P0025,alpha,23_or_older,Female,DiSFor
+P0026,alpha,23_or_older,Female,DiSFor
+P0027,alpha,23_or_older,Male,DMI
+P0028,alpha,23_or_older,Female,DiSFor
+P0029,alpha,23_or_older,Female,DiSFor
+P0030,alpha,23_or_older,Female,DiSFor
+P0031,alpha,23_or_older,Female,DiSFor
+P0032,alpha,23_or_older,Female,DiSFor
+P0033,alpha,23_or_older,Female,DiSFor
+P0034,alpha,23_or_older,Male,DMI
+P0035,alpha,23_or_older,Male,DMI
+P0036,alpha,22,Male,DMI
+P0037,alpha,23_or_older,Male,DMI
+P0038,alpha,20,Male,DMI
+P0039,alpha,20,Male,DMI
+P0040,alpha,23_or_older,Male,DMI
+P0041,alpha,20,Male,DMI
+P0042,alpha,20,Male,DMI
+P0043,alpha,23_or_older,Male,DMI
+P0044,alpha,20,Male,DMI
+P0045,alpha,22,Male,DMI
+P0046,alpha,23_or_older,Male,DMI
+P0047,alpha,23_or_older,Male,DMI
+P0048,alpha,23_or_older,Male,DMI
+P0049,alpha,20,Male,DMI
+P0050,alpha,23_or_older,Male,DMI
+P0051,alpha,23_or_older,Male,DMI
+P0052,alpha,22,Male,DMI
+P0053,alpha,22,Male,DMI
+P0054,alpha,21,Female,DMI
+P0055,alpha,20,Male,DMI
+P0056,alpha,23_or_older,Male,DMI
+P0057,alpha,22,Female,DMI
+P0058,alpha,23_or_older,Male,DMI
+P0059,alpha,23_or_older,Male,DMI
+P0060,alpha,23_or_older,Female,DMI
+P0061,alpha,23_or_older,Male,DMI
+P0062,alpha,20,Male,DMI
+P0063,alpha,23_or_older,Male,DMI
+P0064,alpha,21,Male,DMI
+P0065,alpha,20,Male,DMI
+P0066,alpha,22,Male,DMI
+P0067,alpha,21,Female,DMI
+P0068,alpha,20,Male,DMI
+P0069,alpha,23_or_older,Female,DMI
+P0070,alpha,22,Male,DMI
+P0071,alpha,20,Male,DMI
+P0072,alpha,22,Male,DMI
+P0073,alpha,22,Male,DMI
+P0074,alpha,23_or_older,Male,DMI
+P0075,alpha,21,Male,DMI
+P0076,alpha,23_or_older,Female,non-academic
+P0077,alpha,23_or_older,Male,Giurisprudenza
+P0078,alpha,23_or_older,Male,DMI
+P0079,alpha,23_or_older,Female,DMI
+P0080,alpha,21,Female,DMI
+P0081,alpha,23_or_older,Female,DMI
+P0082,alpha,23_or_older,Female,DMI
+P0083,alpha,23_or_older,Male,non-academic
+P0084,alpha,23_or_older,Female,DMI
+P0085,alpha,23_or_older,Female,DMI
+P0086,alpha,23_or_older,Female,DMI
+P0087,alpha,23_or_older,Female,non-academic
+P0088,alpha,21,Male,DIEEI
+P0089,alpha,23_or_older,Male,DMI
+P0090,alpha,23_or_older,Male,DMI
+P0091,alpha,23_or_older,Female,DiSFor
+P0092,alpha,23_or_older,Female,DiSFor
+P0093,alpha,23_or_older,Female,DiSFor
+P0094,alpha,23_or_older,Female,DiSFor
+P0095,alpha,23_or_older,Female,DiSFor
+P0096,alpha,23_or_older,Female,DiSFor
+P0097,alpha,23_or_older,Female,DiSFor
+P0098,alpha,23_or_older,Female,DiSFor
+P0099,alpha,23_or_older,Female,DiSFor
+P0100,alpha,23_or_older,Female,DiSFor
+P0101,alpha,23_or_older,Female,DiSFor
+P0102,alpha,23_or_older,Female,DiSFor
+P0103,alpha,23_or_older,Female,DiSFor
+P0104,alpha,23_or_older,Female,DiSFor
+P0105,alpha,23_or_older,Female,DiSFor
+P0106,alpha,23_or_older,Female,DiSFor
+P0107,alpha,23_or_older,Male,DiSFor
+P0108,alpha,23_or_older,Female,DiSFor
+P0109,alpha,23_or_older,Female,DMI
+P0110,alpha,22,Female,DiSFor
+P0111,alpha,23_or_older,Female,Professioni Sanitarie
+P0112,alpha,21,Male,Professioni Sanitarie
+P0113,alpha,23_or_older,Female,Professioni Sanitarie
+P0114,alpha,23_or_older,Female,Professioni Sanitarie
+P0115,alpha,23_or_older,Female,Professioni Sanitarie
+P0116,alpha,23_or_older,Female,Professioni Sanitarie
+P0117,alpha,23_or_older,Female,Professioni Sanitarie
+P0118,alpha,20,Female,Professioni Sanitarie
+P0119,alpha,20,Female,Professioni Sanitarie
+P0120,alpha,21,Female,Professioni Sanitarie
+P0121,alpha,22,Male,DMI
+P0122,alpha,20,Male,DMI
+P0123,alpha,23_or_older,Female,DMI
+P0124,alpha,20,Male,DMI
+P0125,alpha,21,Male,DMI
+P0126,alpha,21,Male,DMI
+P0127,alpha,23_or_older,Female,DMI
+P0128,alpha,23_or_older,Male,DMI
+P0129,alpha,20,Male,DMI
+P0130,alpha,22,Male,DMI
+P0131,alpha,20,Male,DMI
+P0132,alpha,23_or_older,Male,DMI
+P0133,alpha,22,Female,DMI
+P0134,alpha,20,Male,DMI
+P0135,alpha,23_or_older,Male,DMI
+P0136,alpha,21,Female,DMI
+P0137,alpha,22,Male,DMI
+P0138,alpha,21,Male,DMI
+P0139,alpha,21,Male,DMI
+P0140,alpha,21,Male,DIEEI
+P0141,alpha,23_or_older,Male,DMI
+P0142,alpha,20,Male,DMI
+P0143,alpha,20,Male,DIEEI
+P0144,alpha,23_or_older,Male,DMI
+P0145,alpha,20,Female,DIEEI
+P0146,alpha,20,Male,DMI
+P0147,alpha,20,Female,DIEEI
+P0148,alpha,23_or_older,Male,DMI
+P0149,alpha,23_or_older,Male,DMI
+P0150,alpha,23_or_older,Male,DMI
+P0151,alpha,21,Male,DIEEI
+P0152,alpha,20,Male,DMI
+P0153,alpha,23_or_older,Male,DMI
+P0154,alpha,23_or_older,Male,DMI
+P0155,alpha,23_or_older,Male,DMI
+P0156,alpha,20,Male,DMI
+P0157,alpha,20,Male,DIEEI
+P0158,alpha,23_or_older,Male,DMI
+P0159,alpha,20,Male,DMI
+P0160,alpha,21,Male,DMI
+P0161,alpha,23_or_older,Male,DMI
+P0162,alpha,20,Male,DMI
+P0163,alpha,20,Male,Ingegneria
+P0164,alpha,21,Male,DIEEI
+P0165,alpha,23_or_older,Male,DMI
+P0166,alpha,22,Male,DMI
+P0167,alpha,21,Male,DMI
+P0168,alpha,20,Male,DIEEI
+P0169,alpha,20,Male,DIEEI
+P0170,alpha,23_or_older,Male,DMI
+P0171,alpha,20,Male,DIEEI
+P0172,alpha,20,Male,DMI
+P0173,alpha,21,Male,DMI
+P0174,alpha,23_or_older,Male,DMI
+P0175,alpha,20,Female,DMI
+P0176,alpha,21,Male,DMI
+P0177,alpha,20,Male,DMI
+P0178,alpha,21,Male,DMI
+P0179,alpha,22,Male,DMI
+P0180,alpha,21,Female,DMI
+P0181,alpha,21,Male,DMI
+P0182,alpha,23_or_older,Male,Digital Forensics
+P0183,alpha,21,Male,DMI
+P0184,alpha,23_or_older,Female,Professioni Sanitarie
+P0185,alpha,23_or_older,Female,Professioni Sanitarie
+P0186,alpha,23_or_older,Female,Professioni Sanitarie
+P0187,alpha,23_or_older,Female,Professioni Sanitarie
+P0188,alpha,22,Male,Professioni Sanitarie
+P0189,alpha,22,Female,Professioni Sanitarie
+P0190,alpha,23_or_older,Female,Professioni Sanitarie
+P0191,alpha,22,Female,Professioni Sanitarie
+P0192,alpha,23_or_older,Female,Professioni Sanitarie
+P0193,alpha,23_or_older,Female,Professioni Sanitarie
+P0194,alpha,23_or_older,Male,Professioni Sanitarie
+P0195,alpha,23_or_older,Male,Professioni Sanitarie
+P0196,alpha,23_or_older,Female,Professioni Sanitarie
+P0197,alpha,23_or_older,Female,Professioni Sanitarie
+P0198,alpha,23_or_older,Female,Professioni Sanitarie
+P0199,alpha,23_or_older,Male,Professioni Sanitarie
+P0200,alpha,23_or_older,Male,Professioni Sanitarie
+P0201,alpha,23_or_older,Female,Professioni Sanitarie
+P0202,alpha,23_or_older,Female,Professioni Sanitarie
+P0203,alpha,23_or_older,Female,Professioni Sanitarie
+P0204,alpha,23_or_older,Female,Professioni Sanitarie
+P0205,alpha,22,Female,Professioni Sanitarie
+P0206,alpha,23_or_older,Female,Professioni Sanitarie
+P0207,alpha,23_or_older,Female,Professioni Sanitarie
+P0208,alpha,22,Female,Professioni Sanitarie
+P0209,alpha,23_or_older,Female,Professioni Sanitarie
+P0210,alpha,23_or_older,Female,Professioni Sanitarie
+P0211,alpha,23_or_older,Female,Professioni Sanitarie
+P0212,alpha,23_or_older,Male,Professioni Sanitarie
+P0213,alpha,23_or_older,Male,Professioni Sanitarie
+P0214,alpha,23_or_older,Female,Professioni Sanitarie
+P0215,alpha,23_or_older,Male,Professioni Sanitarie
+P0216,alpha,23_or_older,Female,Professioni Sanitarie
+P0217,alpha,23_or_older,Male,DIEEI
+P0218,alpha,23_or_older,Female,DiSFor
+P0219,alpha,22,Female,Architettura
+P0220,alpha,23_or_older,Male,Ingegneria
+P0221,alpha,23_or_older,Female,Scuola di Medicina
+P0222,alpha,20,Male,Scuola di Medicina
+P0223,alpha,20,Male,Economia
+P0224,alpha,20,Male,Economia
+P0225,alpha,23_or_older,Female,Scienze della Formazione
+P0226,alpha,23_or_older,Female,Scuola di Medicina
+P0227,alpha,20,Female,Economia
+P0228,alpha,22,Female,Economia e Impresa
+P0229,alpha,20,Female,Scienze Biologiche
+P0230,alpha,20,Female,Economia Aziendale
+P0231,alpha,23_or_older,Female,Scienze Politiche e Sociali
+P0232,alpha,23_or_older,Female,Accademia di Belle Arti
+P0233,alpha,20,Male,DIEEI
+P0234,alpha,23_or_older,Male,Scienze Politiche e Sociali
+P0235,alpha,23_or_older,Female,DISUM
+P0236,alpha,23_or_older,Male,DISUM
+P0237,alpha,23_or_older,Male,DMI
+P0238,alpha,21,Female,Psicologia
+P0239,alpha,20,Female,DISUM
+P0240,alpha,23_or_older,Male,Chimica
+P0241,alpha,23_or_older,Male,DISUM
+P0242,alpha,22,Female,DiSFor
+P0243,alpha,23_or_older,Male,Poznań University of Technology
+P0244,alpha,23_or_older,Male,Poznań University of Technology
+P0245,alpha,23_or_older,Male,Poznań University of Technology
+P0246,alpha,23_or_older,Male,Poznań University of Technology
+P0247,alpha,23_or_older,Male,Poznań University of Technology
+P0248,alpha,23_or_older,Male,Poznań University of Technology
+P0249,alpha,23_or_older,Male,Poznań University of Technology
+P0250,alpha,23_or_older,Male,other (UniCT unspecified)
+P0251,alpha,23_or_older,Female,Data Science
+P0252,alpha,22,Male,other (UniCT unspecified)
+P0253,alpha,23_or_older,Male,other (UniCT unspecified)
+P0254,alpha,22,Male,other (UniCT unspecified)
+P0255,alpha,22,Female,other (UniCT unspecified)
+P0256,alpha,23_or_older,Male,other (UniCT unspecified)
+P0257,beta,21,Male,DMI
+P0258,beta,21,Male,DIEEI
+P0259,beta,22,Male,DIEEI
+P0260,beta,21,Female,DMI
+P0261,beta,21,Female,DMI
+P0262,beta,21,Female,DMI
+P0263,beta,23_or_older,Male,DMI
+P0264,beta,22,Female,DIEEI
+P0265,beta,22,Male,DMI
+P0266,beta,23_or_older,Male,DMI
+P0267,beta,21,Male,DMI
+P0268,beta,22,Male,DMI
+P0269,beta,23_or_older,Female,DMI
+P0270,beta,23_or_older,Female,DMI
+P0271,beta,23_or_older,Male,DMI
+P0272,beta,22,Male,DMI
+P0273,beta,23_or_older,Male,DMI
+P0274,beta,23_or_older,Male,multi-department
+P0275,beta,23_or_older,Male,DMI
+P0276,beta,23_or_older,Male,DMI
+P0277,beta,23_or_older,Female,DiSFor
+P0278,beta,23_or_older,Female,DiSFor
+P0279,beta,23_or_older,Female,DiSFor
+P0280,beta,23_or_older,Female,DiSFor
+P0281,beta,23_or_older,Female,DiSFor
+P0282,beta,23_or_older,Female,DiSFor
+P0283,beta,23_or_older,Male,DMI
+P0284,beta,21,Male,DMI
+P0285,beta,20,Male,DMI
+P0286,beta,21,Male,DMI
+P0287,beta,20,Unspecified,DMI
+P0288,beta,20,Male,DMI
+P0289,beta,21,Male,DMI
+P0290,beta,23_or_older,Male,DMI
+P0291,beta,23_or_older,Male,DMI
+P0292,beta,20,Male,DMI
+P0293,beta,23_or_older,Male,DMI
+P0294,beta,22,Male,DMI
+P0295,beta,23_or_older,Female,non-academic
+P0296,beta,23_or_older,Male,Giurisprudenza
+P0297,beta,21,Female,DMI
+P0298,beta,23_or_older,Female,DMI
+P0299,beta,23_or_older,Male,other
+P0300,beta,23_or_older,Female,DMI
+P0301,beta,23_or_older,Female,non-academic
+P0302,beta,23_or_older,Male,DMI
+P0303,beta,23_or_older,Female,DiSFor
+P0304,beta,23_or_older,Female,DiSFor
+P0305,beta,23_or_older,Female,DiSFor
+P0306,beta,23_or_older,Female,DiSFor
+P0307,beta,23_or_older,Female,DiSFor
+P0308,beta,22,Male,DMI
+P0309,beta,21,Male,DIEEI
+P0310,beta,20,Female,DIEEI
+P0311,beta,20,Female,DIEEI
+P0312,beta,22,Male,DMI
+P0313,beta,20,Male,DMI
+P0314,beta,21,Male,DIEEI
+P0315,beta,23_or_older,Female,DMI
+P0316,beta,22,Male,DMI
+P0317,beta,23_or_older,Male,DMI
+P0318,beta,20,Male,DMI
+P0319,beta,23_or_older,Female,DMI
+P0320,beta,23_or_older,Male,DMI
+P0321,beta,21,Male,DMI
+P0322,beta,23_or_older,Male,DMI
+P0323,beta,23_or_older,Male,DMI
+P0324,beta,21,Male,DMI
+P0325,beta,21,Male,DMI
+P0326,beta,21,Male,DMI
+P0327,beta,23_or_older,Male,DMI
+P0328,beta,23_or_older,Male,DMI
+P0329,beta,20,Male,DMI
+P0330,beta,20,Male,DMI
+P0331,beta,20,Male,DMI
+P0332,beta,20,Male,DMI
+P0333,beta,20,Male,DMI
+P0334,beta,23_or_older,Male,DMI
+P0335,beta,20,Male,DIEEI
+P0336,beta,20,Male,DIEEI
+P0337,beta,22,Female,DMI
+P0338,beta,23_or_older,Male,DMI
+P0339,beta,23_or_older,Male,DMI
+P0340,beta,23_or_older,Male,DMI
+P0341,beta,23_or_older,Male,Digital Forensics
+P0342,beta,21,Male,DMI
+P0343,beta,21,Male,DIEEI
+P0344,beta,21,Male,DMI
+P0345,beta,20,Male,DMI
+P0346,beta,23_or_older,Male,DMI
+P0347,beta,21,Male,DMI
+P0348,beta,20,Male,DIEEI
+P0349,beta,23_or_older,Male,DMI
+P0350,beta,21,Male,DMI
+P0351,beta,22,Male,DMI
+P0352,beta,20,Male,DIEEI
+P0353,beta,23_or_older,Male,DMI
+P0354,beta,21,Female,DMI
+P0355,beta,23_or_older,Female,Professioni Sanitarie
+P0356,beta,22,Female,Professioni Sanitarie
+P0357,beta,23_or_older,Female,Professioni Sanitarie
+P0358,beta,23_or_older,Female,Professioni Sanitarie
+P0359,beta,23_or_older,Female,Professioni Sanitarie
+P0360,beta,22,Female,Professioni Sanitarie
+P0361,beta,23_or_older,Female,Professioni Sanitarie
+P0362,beta,23_or_older,Female,Professioni Sanitarie
+P0363,beta,23_or_older,Male,Professioni Sanitarie
+P0364,beta,23_or_older,Female,Professioni Sanitarie
+P0365,beta,22,Female,Professioni Sanitarie
+P0366,beta,23_or_older,Female,Professioni Sanitarie
+P0367,beta,23_or_older,Female,Professioni Sanitarie
+P0368,beta,23_or_older,Female,Professioni Sanitarie
+P0369,beta,23_or_older,Male,Professioni Sanitarie
+P0370,beta,22,Male,Professioni Sanitarie
+P0371,beta,23_or_older,Male,Professioni Sanitarie
+P0372,beta,23_or_older,Female,Professioni Sanitarie
+P0373,beta,23_or_older,Male,Professioni Sanitarie
+P0374,beta,23_or_older,Female,Professioni Sanitarie
+P0375,beta,23_or_older,Male,Professioni Sanitarie
+P0376,beta,23_or_older,Female,Professioni Sanitarie
+P0377,beta,23_or_older,Female,Professioni Sanitarie
+P0378,beta,23_or_older,Female,Professioni Sanitarie
+P0379,beta,23_or_older,Female,Professioni Sanitarie
+P0380,beta,23_or_older,Female,Professioni Sanitarie
+P0381,beta,23_or_older,Female,Professioni Sanitarie
+P0382,beta,22,Female,Professioni Sanitarie
+P0383,beta,23_or_older,Male,Professioni Sanitarie
+P0384,beta,23_or_older,Male,Professioni Sanitarie
+P0385,beta,23_or_older,Female,Professioni Sanitarie
+P0386,beta,23_or_older,Female,Professioni Sanitarie
+P0387,beta,23_or_older,Female,Professioni Sanitarie
+P0388,beta,23_or_older,Female,Professioni Sanitarie
+P0389,beta,23_or_older,Male,DIEEI
+P0390,beta,23_or_older,Female,DiSFor
+P0391,beta,23_or_older,Female,Scuola di Medicina
+P0392,beta,20,Female,Scienze Biologiche
+P0393,beta,20,Female,Economia Aziendale
+P0394,beta,23_or_older,Female,Accademia di Belle Arti
+P0395,beta,23_or_older,Male,DMI
+P0396,beta,23_or_older,Male,Scienze Politiche e Sociali
+P0397,beta,23_or_older,Male,Poznań University of Technology
+P0398,beta,23_or_older,Male,Poznań University of Technology
+P0399,beta,23_or_older,Female,Poznań University of Technology
+P0400,beta,23_or_older,Male,Poznań University of Technology
+P0401,beta,22,Female,other (UniCT unspecified)
+P0402,beta,23_or_older,Male,other (UniCT unspecified)
+P0403,beta,23_or_older,Male,other (UniCT unspecified)
+P0404,beta,23_or_older,Male,other (UniCT unspecified)
+P0405,beta,22,Male,redacted_pii
+P0406,beta,23_or_older,Male,other (UniCT unspecified)
+P0407,gamma,22,Male,DMI
+P0408,gamma,22,Male,DMI
+P0409,gamma,22,Male,DMI
+P0410,gamma,22,Male,DMI
+P0411,gamma,23_or_older,Male,DIEEI
+P0412,gamma,22,Female,DMI
+P0413,gamma,21,Male,DMI
+P0414,gamma,22,Female,DIEEI
+P0415,gamma,23_or_older,Male,multi-department
+P0416,gamma,22,Female,DMI
+P0417,gamma,23_or_older,Male,DMI
+P0418,gamma,23_or_older,Male,multi-department
+P0419,gamma,23_or_older,Male,multi-department
+P0420,gamma,23_or_older,Female,DiSFor
+P0421,gamma,23_or_older,Female,DiSFor
+P0422,gamma,23_or_older,Female,DiSFor
+P0423,gamma,23_or_older,Female,DiSFor
+P0424,gamma,22,Male,DMI
+P0425,gamma,23_or_older,Male,DMI
+P0426,gamma,21,Male,DMI
+P0427,gamma,21,Male,DMI
+P0428,gamma,20,Male,DMI
+P0429,gamma,20,Female,DMI
+P0430,gamma,20,Male,DMI
+P0431,gamma,23_or_older,Male,DMI
+P0432,gamma,20,Male,DMI
+P0433,gamma,21,Male,DMI
+P0434,gamma,20,Male,DMI
+P0435,gamma,23_or_older,Male,DMI
+P0436,gamma,23_or_older,Female,non-academic
+P0437,gamma,21,Female,DMI
+P0438,gamma,23_or_older,Female,DMI
+P0439,gamma,23_or_older,Female,non-academic
+P0440,gamma,23_or_older,Female,Scienze Biologiche
+P0441,gamma,23_or_older,Female,DiSFor
+P0442,gamma,23_or_older,Female,DiSFor
+P0443,gamma,23_or_older,Female,DiSFor
+P0444,gamma,23_or_older,Female,DiSFor
+P0445,gamma,23_or_older,Female,DiSFor
+P0446,gamma,23_or_older,Female,DiSFor
+P0447,gamma,23_or_older,Female,DiSFor
+P0448,gamma,23_or_older,Female,DiSFor
+P0449,gamma,22,Female,Scienze Politiche e Sociali
+P0450,gamma,23_or_older,Female,DiSFor
+P0451,gamma,23_or_older,Female,DiSFor
+P0452,gamma,23_or_older,Female,DiSFor
+P0453,gamma,23_or_older,Female,DiSFor
+P0454,gamma,23_or_older,Female,DiSFor
+P0455,gamma,23_or_older,Female,DiSFor
+P0456,gamma,23_or_older,Male,DISUM
+P0457,gamma,23_or_older,Female,DiSFor
+P0458,gamma,20,Female,Scienze Motorie
+P0459,gamma,20,Male,DMI
+P0460,gamma,23_or_older,Male,DMI
+P0461,gamma,23_or_older,Female,DMI
+P0462,gamma,22,Male,DMI
+P0463,gamma,20,Male,DMI
+P0464,gamma,23_or_older,Male,DMI
+P0465,gamma,22,Male,DMI
+P0466,gamma,23_or_older,Female,DMI
+P0467,gamma,22,Male,DMI
+P0468,gamma,20,Male,DMI
+P0469,gamma,23_or_older,Male,DMI
+P0470,gamma,23_or_older,Male,DMI
+P0471,gamma,21,Male,DMI
+P0472,gamma,21,Male,DIEEI
+P0473,gamma,21,Male,DIEEI
+P0474,gamma,23_or_older,Male,DMI
+P0475,gamma,20,Female,DIEEI
+P0476,gamma,23_or_older,Male,DMI
+P0477,gamma,21,Male,DMI
+P0478,gamma,20,Male,DMI
+P0479,gamma,21,Male,DMI
+P0480,gamma,20,Male,DMI
+P0481,gamma,20,Male,DIEEI
+P0482,gamma,20,Male,DMI
+P0483,gamma,23_or_older,Male,Digital Forensics
+P0484,gamma,22,Male,DMI
+P0485,gamma,20,Male,DMI
+P0486,gamma,20,Male,DIEEI
+P0487,gamma,23_or_older,Male,DMI
+P0488,gamma,21,Male,DMI
+P0489,gamma,23_or_older,Male,DMI
+P0490,gamma,23_or_older,Male,DMI
+P0491,gamma,23_or_older,Male,DMI
+P0492,gamma,21,Male,DIEEI
+P0493,gamma,20,Male,DIEEI
+P0494,gamma,21,Male,DMI
+P0495,gamma,21,Male,DMI
+P0496,gamma,22,Male,DMI
+P0497,gamma,23_or_older,Male,DMI
+P0498,gamma,20,Male,DMI
+P0499,gamma,20,Female,DMI
+P0500,gamma,20,Male,DIEEI
+P0501,gamma,21,Male,DMI
+P0502,gamma,23_or_older,Female,Professioni Sanitarie
+P0503,gamma,23_or_older,Female,Professioni Sanitarie
+P0504,gamma,23_or_older,Female,Professioni Sanitarie
+P0505,gamma,22,Male,Professioni Sanitarie
+P0506,gamma,22,Female,Professioni Sanitarie
+P0507,gamma,23_or_older,Female,Professioni Sanitarie
+P0508,gamma,22,Female,Professioni Sanitarie
+P0509,gamma,23_or_older,Female,Professioni Sanitarie
+P0510,gamma,23_or_older,Female,Professioni Sanitarie
+P0511,gamma,23_or_older,Female,Professioni Sanitarie
+P0512,gamma,23_or_older,Male,Professioni Sanitarie
+P0513,gamma,23_or_older,Female,Professioni Sanitarie
+P0514,gamma,23_or_older,Female,Professioni Sanitarie
+P0515,gamma,23_or_older,Male,Professioni Sanitarie
+P0516,gamma,23_or_older,Female,Professioni Sanitarie
+P0517,gamma,23_or_older,Female,Professioni Sanitarie
+P0518,gamma,23_or_older,Male,Professioni Sanitarie
+P0519,gamma,22,Female,Professioni Sanitarie
+P0520,gamma,23_or_older,Female,Professioni Sanitarie
+P0521,gamma,23_or_older,Female,Professioni Sanitarie
+P0522,gamma,23_or_older,Male,Professioni Sanitarie
+P0523,gamma,23_or_older,Female,Professioni Sanitarie
+P0524,gamma,23_or_older,Female,Professioni Sanitarie
+P0525,gamma,23_or_older,Female,Professioni Sanitarie
+P0526,gamma,23_or_older,Female,Professioni Sanitarie
+P0527,gamma,22,Female,Professioni Sanitarie
+P0528,gamma,23_or_older,Male,Professioni Sanitarie
+P0529,gamma,23_or_older,Male,Professioni Sanitarie
+P0530,gamma,23_or_older,Female,Professioni Sanitarie
+P0531,gamma,23_or_older,Female,Professioni Sanitarie
+P0532,gamma,23_or_older,Female,Professioni Sanitarie
+P0533,gamma,23_or_older,Male,Professioni Sanitarie
+P0534,gamma,23_or_older,Female,Professioni Sanitarie
+P0535,gamma,23_or_older,Female,DiSFor
+P0536,gamma,23_or_older,Female,DiSFor
+P0537,gamma,20,Female,Economia Aziendale
+P0538,gamma,20,Male,Economia e Impresa
+P0539,gamma,23_or_older,Male,Economia e Impresa
+P0540,gamma,20,Female,Scienze Biologiche
+P0541,gamma,23_or_older,Female,Scuola di Medicina
+P0542,gamma,20,Female,Economia Aziendale
+P0543,gamma,23_or_older,Male,Scienze Politiche e Sociali
+P0544,gamma,21,Male,Scuola di Medicina
+P0545,gamma,22,Female,DISUM
+P0546,gamma,21,Male,Accademia di Belle Arti
+P0547,gamma,22,Female,DiSFor
+P0548,gamma,20,Female,DiSFor
+P0549,delta,21,Male,DMI
+P0550,delta,21,Male,DMI
+P0551,delta,22,Male,DMI
+P0552,delta,21,Male,DMI
+P0553,delta,22,Male,DMI
+P0554,delta,22,Female,DMI
+P0555,delta,23_or_older,Male,DMI
+P0556,delta,23_or_older,Male,DMI
+P0557,delta,23_or_older,Female,DiSFor
+P0558,delta,23_or_older,Female,DiSFor
+P0559,delta,23_or_older,Female,DiSFor
+P0560,delta,23_or_older,Female,DiSFor
+P0561,delta,21,Male,DMI
+P0562,delta,20,Male,DMI
+P0563,delta,20,Male,DMI
+P0564,delta,23_or_older,Male,DMI
+P0565,delta,23_or_older,Female,non-academic
+P0566,delta,21,Female,DMI
+P0567,delta,23_or_older,Female,DMI
+P0568,delta,23_or_older,Male,DMI
+P0569,delta,23_or_older,Female,DMI
+P0570,delta,23_or_older,Female,non-academic
+P0571,delta,23_or_older,Female,Scienze Biologiche
+P0572,delta,23_or_older,Female,DiSFor
+P0573,delta,23_or_older,Female,DiSFor
+P0574,delta,23_or_older,Female,DiSFor
+P0575,delta,23_or_older,Female,DiSFor
+P0576,delta,23_or_older,Female,DiSFor
+P0577,delta,20,Female,Scienze Motorie
+P0578,delta,22,Female,Professioni Sanitarie
+P0579,delta,21,Female,Professioni Sanitarie
+P0580,delta,21,Female,Professioni Sanitarie
+P0581,delta,21,Male,Professioni Sanitarie
+P0582,delta,23_or_older,Male,DMI
+P0583,delta,23_or_older,Male,DMI
+P0584,delta,23_or_older,Male,DMI
+P0585,delta,21,Male,DMI
+P0586,delta,20,Male,DMI
+P0587,delta,23_or_older,Male,Digital Forensics
+P0588,delta,20,Male,DMI
+P0589,delta,23_or_older,Female,DMI
+P0590,delta,20,Male,DMI
+P0591,delta,21,Male,DMI
+P0592,delta,22,Male,DMI
+P0593,delta,23_or_older,Male,DMI
+P0594,delta,21,Male,DMI
+P0595,delta,20,Male,DMI
+P0596,delta,21,Male,DIEEI
+P0597,delta,20,Male,DMI
+P0598,delta,23_or_older,Male,DMI
+P0599,delta,21,Female,DMI
+P0600,delta,23_or_older,Male,DMI
+P0601,delta,22,Male,DMI
+P0602,delta,20,Male,DMI
+P0603,delta,23_or_older,Male,DMI
+P0604,delta,23_or_older,Male,DMI
+P0605,delta,21,Male,DIEEI
+P0606,delta,21,Male,DIEEI
+P0607,delta,21,Male,DMI
+P0608,delta,21,Male,DMI
+P0609,delta,20,Male,DMI
+P0610,delta,23_or_older,Male,DMI
+P0611,delta,23_or_older,Male,DMI
+P0612,delta,21,Male,DMI
+P0613,delta,20,Male,DIEEI
+P0614,delta,21,Male,DMI
+P0615,delta,23_or_older,Male,DMI
+P0616,delta,20,Male,DMI
+P0617,delta,23_or_older,Male,DMI
+P0618,delta,22,Female,Professioni Sanitarie
+P0619,delta,23_or_older,Female,Professioni Sanitarie
+P0620,delta,23_or_older,Female,Professioni Sanitarie
+P0621,delta,23_or_older,Female,Professioni Sanitarie
+P0622,delta,23_or_older,Female,Professioni Sanitarie
+P0623,delta,22,Female,Professioni Sanitarie
+P0624,delta,23_or_older,Female,Professioni Sanitarie
+P0625,delta,23_or_older,Female,Professioni Sanitarie
+P0626,delta,23_or_older,Female,Professioni Sanitarie
+P0627,delta,23_or_older,Female,Professioni Sanitarie
+P0628,delta,22,Female,Professioni Sanitarie
+P0629,delta,23_or_older,Female,Professioni Sanitarie
+P0630,delta,23_or_older,Male,Professioni Sanitarie
+P0631,delta,23_or_older,Female,Professioni Sanitarie
+P0632,delta,23_or_older,Female,Professioni Sanitarie
+P0633,delta,22,Male,Professioni Sanitarie
+P0634,delta,23_or_older,Male,Professioni Sanitarie
+P0635,delta,23_or_older,Male,Professioni Sanitarie
+P0636,delta,23_or_older,Female,Professioni Sanitarie
+P0637,delta,23_or_older,Female,Professioni Sanitarie
+P0638,delta,23_or_older,Female,Professioni Sanitarie
+P0639,delta,23_or_older,Female,Professioni Sanitarie
+P0640,delta,22,Female,Professioni Sanitarie
+P0641,delta,23_or_older,Male,Professioni Sanitarie
+P0642,delta,23_or_older,Female,Professioni Sanitarie
+P0643,delta,23_or_older,Female,Professioni Sanitarie
+P0644,delta,23_or_older,Female,Professioni Sanitarie
+P0645,delta,23_or_older,Male,Professioni Sanitarie
+P0646,delta,23_or_older,Male,Professioni Sanitarie
+P0647,delta,23_or_older,Female,Professioni Sanitarie
+P0648,delta,23_or_older,Female,Professioni Sanitarie
+P0649,delta,20,Female,Economia Aziendale
+P0650,delta,20,Female,Economia Aziendale
+P0651,delta,22,Female,Economia e Impresa
+P0652,delta,21,Female,DMI
+P0653,delta,23_or_older,Male,Scienze Politiche e Sociali
+P0654,delta,22,Male,DiSFor
+P0655,epsilon,21,Male,DMI
+P0656,epsilon,22,Male,DMI
+P0657,epsilon,23_or_older,Male,DMI
+P0658,epsilon,22,Male,DMI
+P0659,epsilon,23_or_older,Male,DMI
+P0660,epsilon,23_or_older,Male,DMI
+P0661,epsilon,23_or_older,Male,DMI
+P0662,epsilon,23_or_older,Female,DMI
+P0663,epsilon,23_or_older,Male,DMI
+P0664,epsilon,23_or_older,Female,DiSFor
+P0665,epsilon,23_or_older,Female,DiSFor
+P0666,epsilon,22,Male,DMI
+P0667,epsilon,20,Male,DMI
+P0668,epsilon,20,Male,DMI
+P0669,epsilon,21,Male,DMI
+P0670,epsilon,20,Female,DMI
+P0671,epsilon,21,Male,DMI
+P0672,epsilon,21,Male,DMI
+P0673,epsilon,23_or_older,Female,DMI
+P0674,epsilon,21,Male,DMI
+P0675,epsilon,23_or_older,Female,non-academic
+P0676,epsilon,23_or_older,Female,DMI
+P0677,epsilon,23_or_older,Female,non-academic
+P0678,epsilon,23_or_older,Female,Scienze Biologiche
+P0679,epsilon,23_or_older,Female,DiSFor
+P0680,epsilon,23_or_older,Female,DiSFor
+P0681,epsilon,23_or_older,Female,DiSFor
+P0682,epsilon,23_or_older,Female,DiSFor
+P0683,epsilon,20,Female,Scienze Motorie
+P0684,epsilon,23_or_older,Male,DMI
+P0685,epsilon,21,Male,DMI
+P0686,epsilon,20,Male,DMI
+P0687,epsilon,23_or_older,Male,Digital Forensics
+P0688,epsilon,23_or_older,Female,DMI
+P0689,epsilon,20,Male,DMI
+P0690,epsilon,20,Male,DMI
+P0691,epsilon,21,Male,DIEEI
+P0692,epsilon,21,Male,DMI
+P0693,epsilon,23_or_older,Male,DMI
+P0694,epsilon,23_or_older,Male,DMI
+P0695,epsilon,22,Male,DMI
+P0696,epsilon,23_or_older,Male,DMI
+P0697,epsilon,21,Male,DIEEI
+P0698,epsilon,21,Male,DIEEI
+P0699,epsilon,22,Male,DMI
+P0700,epsilon,20,Male,DIEEI
+P0701,epsilon,23_or_older,Male,DMI
+P0702,epsilon,23_or_older,Male,DMI
+P0703,epsilon,20,Male,DMI
+P0704,epsilon,21,Male,DMI
+P0705,epsilon,23_or_older,Male,DMI
+P0706,epsilon,20,Male,DMI
+P0707,epsilon,23_or_older,Male,DMI
+P0708,epsilon,23_or_older,Male,DMI
+P0709,epsilon,22,Male,Professioni Sanitarie
+P0710,epsilon,22,Female,Professioni Sanitarie
+P0711,epsilon,22,Female,Professioni Sanitarie
+P0712,epsilon,23_or_older,Female,Professioni Sanitarie
+P0713,epsilon,23_or_older,Female,Professioni Sanitarie
+P0714,epsilon,23_or_older,Female,Professioni Sanitarie
+P0715,epsilon,23_or_older,Female,Professioni Sanitarie
+P0716,epsilon,23_or_older,Female,Professioni Sanitarie
+P0717,epsilon,22,Female,Professioni Sanitarie
+P0718,epsilon,23_or_older,Female,Professioni Sanitarie
+P0719,epsilon,23_or_older,Female,Professioni Sanitarie
+P0720,epsilon,23_or_older,Female,Professioni Sanitarie
+P0721,epsilon,23_or_older,Female,Professioni Sanitarie
+P0722,epsilon,23_or_older,Male,Professioni Sanitarie
+P0723,epsilon,23_or_older,Female,Professioni Sanitarie
+P0724,epsilon,23_or_older,Male,Professioni Sanitarie
+P0725,epsilon,23_or_older,Female,Professioni Sanitarie
+P0726,epsilon,23_or_older,Male,Professioni Sanitarie
+P0727,epsilon,23_or_older,Male,Professioni Sanitarie
+P0728,epsilon,23_or_older,Female,Professioni Sanitarie
+P0729,epsilon,22,Female,Professioni Sanitarie
+P0730,epsilon,23_or_older,Female,Professioni Sanitarie
+P0731,epsilon,23_or_older,Female,Professioni Sanitarie
+P0732,epsilon,23_or_older,Male,Professioni Sanitarie
+P0733,epsilon,23_or_older,Female,Professioni Sanitarie
+P0734,epsilon,23_or_older,Male,Professioni Sanitarie
+P0735,epsilon,23_or_older,Female,Professioni Sanitarie
+P0736,epsilon,23_or_older,Female,Professioni Sanitarie
+P0737,epsilon,23_or_older,Female,Professioni Sanitarie
+P0738,epsilon,23_or_older,Female,Professioni Sanitarie
+P0739,epsilon,23_or_older,Male,Scuola di Medicina
+P0740,epsilon,23_or_older,Female,DiSFor
+P0741,epsilon,23_or_older,Female,DiSFor
+P0742,epsilon,22,Female,DIEEI
+P0743,epsilon,20,Female,Economia Aziendale
+P0744,epsilon,23_or_older,Male,Scienze Politiche e Sociali
+P0745,epsilon,23_or_older,Female,DISUM
+P0746,epsilon,20,Female,DiSFor
