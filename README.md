@@ -20,17 +20,15 @@ Through a mixed-methods study with 746 participants across 5 distinct experiment
 
 ```bibtex
 @article{https://doi.org/10.1155/hbe2/9977058,
-author = {Casu, Mirko and Guarnera, Luca and Zangara, Ignazio and Caponnetto, Pasquale and Battiato, Sebastiano},
-title = {A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images},
-journal = {Human Behavior and Emerging Technologies},
-volume = {2025},
-number = {1},
-pages = {9977058},
-keywords = {cognitive biases, cognitive psychology, deepfake detection, generative AI, impostor bias},
-doi = {https://doi.org/10.1155/hbe2/9977058},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/9977058},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1155/hbe2/9977058},
-year = {2025}
+  author  = {Casu, Mirko and Guarnera, Luca and Zangara, Ignazio and Caponnetto, Pasquale and Battiato, Sebastiano},
+  title   = {A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images},
+  journal = {Human Behavior and Emerging Technologies},
+  volume  = {2025},
+  number  = {1},
+  pages   = {9977058},
+  doi     = {https://doi.org/10.1155/hbe2/9977058},
+  url     = {https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/9977058},
+  year    = {2025}
 }
 ```
 
@@ -38,17 +36,17 @@ year = {2025}
 
 ## Repository Structure
 
-```
+```text
 .
 ├── data/
-│   ├── responses_task.csv           ← Processed data: one row per participant × image (11,170 rows)
-│   ├── participants_demographics.csv← Demographics: one row per participant (746 rows)
+│   ├── responses_task.csv           ← Processed data: one row per participant × image
+│   ├── participants_demographics.csv← Demographics: one row per participant
 │   ├── stimuli_manifest.csv         ← Metadata for every stimulus image
 │   ├── statistical_analysis_results_with_effect_sizes.csv
 │   ├── resnet/                      ← ResNet-50 predictions used in the study
-│   └── raw/                         ← Fully anonymized raw CSV exports (Italian & English)
-├── stimuli/                         ← The 75 stimulus images divided into 5 variants (alpha-epsilon)
-└── gradcam/                         ← Grad-CAM visualizations comparing human vs model focus
+│   └── raw/                         ← Fully anonymized raw CSV exports
+├── stimuli/                         ← The 75 stimulus images (alpha-epsilon)
+└── gradcam/                         ← Grad-CAM visualizations (human vs model)
 ```
 
 ## Data Dictionary
