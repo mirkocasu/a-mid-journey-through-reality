@@ -15,6 +15,7 @@ Through a mixed-methods study with 746 participants across 5 distinct experiment
 ---
 
 ## 📝 Required attribution; please cite the paper
+
 **Unless otherwise noted, the stimulus images and CSV data in this repository are licensed under CC BY 4.0. Reuse, redistribution, and modification are permitted, provided that appropriate attribution is given, changes are indicated, and the following paper is cited:**
 
 ```bibtex
