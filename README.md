@@ -4,6 +4,13 @@
   <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: CC BY 4.0">
   </a>
+  <a href="https://doi.org/10.1155/hbe2/9977058">
+    <img src="https://img.shields.io/badge/DOI-10.1155/hbe2/9977058-blue.svg" alt="DOI: 10.1155/hbe2/9977058">
+  </a>
+  <a href="https://huggingface.co/datasets/m1rkocasu/a-mid-journey-through-reality">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow" alt="Hugging Face Dataset">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/mirkocasu/a-mid-journey-through-reality" alt="GitHub last commit">
 </p>
 
 ![Results Summary](results_summary.png)
