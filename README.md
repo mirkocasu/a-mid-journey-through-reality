@@ -10,6 +10,8 @@
   <a href="https://huggingface.co/datasets/m1rkocasu/a-mid-journey-through-reality">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow" alt="Hugging Face Dataset">
   </a>
+  </p>
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/mirkocasu/a-mid-journey-through-reality" alt="GitHub last commit">
 </p>
 
