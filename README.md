@@ -4,7 +4,7 @@
 
 ![Results Summary](results_summary.png)
 
-This repository contains the dataset, stimulus images, analysis scripts, and figures for the paper **"A (Mid)journey Through Reality"** ([DOI: 10.1155/hbe2/9977058](https://doi.org/10.1155/hbe2/9977058)), published in *Human Behavior and Emerging Technologies* (2025).
+This repository contains the dataset, stimulus images, and Grad-CAM visualizations for the paper **"A (Mid)journey Through Reality"** ([DOI: 10.1155/hbe2/9977058](https://doi.org/10.1155/hbe2/9977058)), published in *Human Behavior and Emerging Technologies* (2025).
 
 ## Overview
 
@@ -118,4 +118,4 @@ All images depict human figures (portraits, groups, or scenes with people) so as
 
 ## Contact
 
-For questions about the dataset or code, please contact the corresponding authors (contact information available in the manuscript).
+For questions about the dataset, please contact the corresponding authors (contact information available in the manuscript).
