@@ -2,6 +2,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+![Results Summary](results_summary.png)
+
 This repository contains the dataset, stimulus images, analysis scripts, and figures for the paper **"A (Mid)journey Through Reality"** ([DOI: 10.1155/hbe2/9977058](https://doi.org/10.1155/hbe2/9977058)), published in *Human Behavior and Emerging Technologies* (2025).
 
 ## Overview
@@ -44,11 +46,9 @@ year = {2025}
 │   ├── stimuli_manifest.csv         ← Metadata for every stimulus image
 │   ├── statistical_analysis_results_with_effect_sizes.csv
 │   ├── resnet/                      ← ResNet-50 predictions used in the study
-│   └── raw/                         ← Original unprocessed questionnaire CSVs (Italian & English)
+│   └── raw/                         ← Fully anonymized raw CSV exports (Italian & English)
 ├── stimuli/                         ← The 75 stimulus images divided into 5 variants (alpha-epsilon)
-├── gradcam/                         ← Grad-CAM visualizations comparing human vs model focus
-├── code/                            ← Python scripts to reproduce the data processing pipeline
-└── figures/                         ← Summary plots, boxplots, and demographic distributions
+└── gradcam/                         ← Grad-CAM visualizations comparing human vs model focus
 ```
 
 ## Data Dictionary
@@ -76,7 +76,7 @@ One row per stimulus (75 total). Every variant contains exactly **5 real**, **5 
 | `image_id`           | Unique identifier, format `{variant}_{order:02d}` (e.g. `alpha_01`) |
 | `variant`            | Questionnaire variant: `alpha`, `beta`, `gamma`, `delta`, `epsilon` |
 | `presentation_order` | Position in the questionnaire (1–15) |
-| `filename`           | Original filename (e.g. `1_real.jpg`) |
+| `filename`           | Original filename, zero-padded (e.g. `01_real.jpg`) |
 | `ground_truth`       | `real` · `AI_midjourney` · `AI_magnific` |
 
 ### Participant Counts by Variant
@@ -94,7 +94,7 @@ One row per stimulus (75 total). Every variant contains exactly **5 real**, **5 
 
 ## Stimulus Images (`stimuli/`)
 
-Each subfolder (`alpha` through `epsilon`) contains exactly 15 JPEG files named `{presentation_order}_{type}.jpg`, where `{type}` encodes the ground truth:
+Each subfolder (`alpha` through `epsilon`) contains exactly 15 JPEG files named `{presentation_order:02d}_{type}.jpg`, where `{type}` encodes the ground truth:
 
 | Suffix   | Meaning                                      | Tool / Source |
 |----------|----------------------------------------------|---------------|
