@@ -20,26 +20,6 @@ Through a mixed-methods study with 746 participants across 5 distinct experiment
 
 ---
 
-## 📝 Required attribution; please cite the paper
-
-**Unless otherwise noted, the stimulus images and CSV data in this repository are licensed under CC BY 4.0. Reuse, redistribution, and modification are permitted, provided that appropriate attribution is given, changes are indicated, and the following paper is cited:**
-
-```bibtex
-@article{https://doi.org/10.1155/hbe2/9977058,
-  author  = {Casu, Mirko and Guarnera, Luca and Zangara, Ignazio and Caponnetto, Pasquale and Battiato, Sebastiano},
-  title   = {A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images},
-  journal = {Human Behavior and Emerging Technologies},
-  volume  = {2025},
-  number  = {1},
-  pages   = {9977058},
-  doi     = {https://doi.org/10.1155/hbe2/9977058},
-  url     = {https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/9977058},
-  year    = {2025}
-}
-```
-
----
-
 ## Repository Structure
 
 ```text
@@ -117,6 +97,26 @@ All images depict human figures (portraits, groups, or scenes with people) so as
 - Age was collected as a categorical range.
 - `academic_affiliation` is a normalised broad label.
 - *Note: the files in `data/raw/` contain the original data exports, but have been fully stripped of personal data (timestamps, emails, and observations).*
+
+---
+
+## 📝 Required attribution; please cite the paper
+
+**Unless otherwise noted, the stimulus images and CSV data in this repository are licensed under CC BY 4.0. Reuse, redistribution, and modification are permitted, provided that appropriate attribution is given, changes are indicated, and the following paper is cited:**
+
+```bibtex
+@article{https://doi.org/10.1155/hbe2/9977058,
+  author  = {Casu, Mirko and Guarnera, Luca and Zangara, Ignazio and Caponnetto, Pasquale and Battiato, Sebastiano},
+  title   = {A (Mid)journey Through Reality: Assessing Accuracy, Impostor Bias, and Automation Bias in Human Detection of AI-Generated Images},
+  journal = {Human Behavior and Emerging Technologies},
+  volume  = {2025},
+  number  = {1},
+  pages   = {9977058},
+  doi     = {https://doi.org/10.1155/hbe2/9977058},
+  url     = {https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/9977058},
+  year    = {2025}
+}
+```
 
 ---
 
